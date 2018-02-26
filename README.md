@@ -1,2 +1,1 @@
-# P04
-iepazīšanās ar markdown valodas sintaksi
+Es sāku apgūt 'git' versijas kontroles sistēmu
